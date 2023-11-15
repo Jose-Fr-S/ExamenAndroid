@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabajo06</string>
+    <string name="Multi">"Multiplicacion "</string>
+    <string name="div">Division</string>
+    <string name="res">Resta</string>
+    <string name="sum">Suma</string>
+    <string name="resu">Resultado</string>
+    <string name="ope">Operacion</string>
+    <string name="n1">Numero 1</string>
+    <string name="hi">Historial</string>
+</resources>
