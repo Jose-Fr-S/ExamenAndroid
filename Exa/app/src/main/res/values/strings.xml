@@ -8,4 +8,18 @@
     <string name="ope">Operacion</string>
     <string name="n1">Numero 1</string>
     <string name="hi">Historial</string>
+    <string name="Codigo">Ingrese el codigo del producto</string>
+    <string name="descripcion">Ingrese descripcion</string>
+    <string name="precio">Ingrese precio</string>
+    <string name="alta">Alta</string>
+    <string name="nombre">Nombre</string>
+    <string name="control">No.Control</string>
+    <string name="grupo">Grupo</string>
+    <string name="rfc">RFC</string>
+    <string name="nombreM">Nombre</string>
+    <string name="Materia">Materia</string>
+    <string name="nombrem">Materia</string>
+    <string name="Maestro">Maestro</string>
+    <string name="NombreMa">Nombre de la Materia</string>
+    <string name="aula">Aula</string>
 </resources>
